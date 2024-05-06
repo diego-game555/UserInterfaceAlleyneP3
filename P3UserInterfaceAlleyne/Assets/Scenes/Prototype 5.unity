@@ -461,7 +461,7 @@ MonoBehaviour:
   - {fileID: 2043777521723102047, guid: a56d0eafe1677a64993ad2835477f74b, type: 3}
   scoreText: {fileID: 1751453664}
   gameOverText: {fileID: 2058394978}
-  isGameActive: 0
+  isGameActive: 1
 --- !u!4 &1463203093
 Transform:
   m_ObjectHideFlags: 0
@@ -576,7 +576,7 @@ Transform:
   m_GameObject: {fileID: 1611319330}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -7.57, z: 0}
+  m_LocalPosition: {x: 0, y: -9.55, z: 0}
   m_LocalScale: {x: 3, y: 1, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
